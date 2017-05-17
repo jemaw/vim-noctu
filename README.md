@@ -9,12 +9,12 @@ It is based on [noctwo][1] and modified for my needs.
 Just stick `noctwo.vim` in your `colors/` directory, or if you manage your
 plug-ins with [plug][2] or [dein][3] put this in your vimrc:
 ```vim
-    " plug
-    Plug 'jemaw/vim-noctwo'
+" plug
+Plug 'jemaw/vim-noctwo'
 ```
 ```vim
-    " dein
-    call dein#add('jemaw/vim-noctwo')
+" dein
+call dein#add('jemaw/vim-noctwo')
 ```
 
 
