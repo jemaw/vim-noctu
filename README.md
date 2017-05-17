@@ -1,7 +1,7 @@
 # noctwo.vim
 
 ## A Vim color scheme for 16-color terminals 
-It is based on [noctwo][1] and modified for my needs.
+It is based on [noctu][1] and modified for my needs.
 
 
 ## Installation
