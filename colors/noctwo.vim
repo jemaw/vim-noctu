@@ -155,6 +155,9 @@ hi! link rubyStringDelimiter        rubyString
 
 "}}}
 " Git {{{
+hi diffFile                      ctermfg=3 cterm=bold
+hi diffRemoved                   ctermfg=1
+hi diffAdded                     ctermfg=2
 hi gitCommitBranch               ctermfg=3
 hi gitCommitSelectedType         ctermfg=10
 hi gitCommitSelectedFile         ctermfg=2
