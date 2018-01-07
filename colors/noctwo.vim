@@ -85,7 +85,7 @@ hi! link SpecialKey               NonText
 hi Delimiter       ctermfg=7
 hi Comment         ctermfg=8
 hi Underlined      ctermfg=12 cterm=underline
-hi Type            ctermfg=6
+hi Type            ctermfg=14
 hi String          ctermfg=2
 hi Keyword         ctermfg=12
 hi Todo            ctermfg=15 ctermbg=NONE cterm=bold,underline
