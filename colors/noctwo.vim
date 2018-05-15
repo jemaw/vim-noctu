@@ -97,7 +97,7 @@ hi Number          ctermfg=1
 hi Boolean         ctermfg=9
 hi Special         ctermfg=13
 hi Ignore          ctermfg=0
-hi Conceal         ctermbg=None
+hi Conceal         ctermfg=15 ctermbg=NONE
 hi! link Operator  Delimiter
 hi! link PreProc   Delimiter
 hi! link Error     ErrorMsg
