@@ -169,6 +169,10 @@ hi! link gitCommitUntrackedFile  gitCommitUnmergedFile
 hi! link gitCommitDiscardedType  gitCommitUnmergedType
 hi! link gitCommitDiscardedFile  gitCommitUnmergedFile
 
+hi GitGutterAdd                  ctermfg=2
+hi GitGutterChange               ctermfg=3
+hi GitGutterDelete               ctermfg=1
+
 "}}}
 " Vim {{{
 hi! link vimSetSep    Delimiter
