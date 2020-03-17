@@ -61,7 +61,7 @@ hi StatusLineNC        ctermfg=8  ctermbg=None cterm=bold
 hi VertSplit           ctermfg=8  ctermbg=None cterm=NONE
 hi TabLine             ctermfg=8  ctermbg=0    cterm=NONE
 hi TabLineSel          ctermfg=7  ctermbg=0
-hi Folded              ctermfg=4  ctermbg=none
+hi Folded              ctermfg=4  ctermbg=0
 hi Directory           ctermfg=12
 hi Title               ctermfg=3  cterm=bold
 hi ErrorMsg            ctermfg=15 ctermbg=1
